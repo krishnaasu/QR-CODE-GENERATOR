@@ -3,7 +3,7 @@
 ## Technologies Used:
 HTML
 CSS
-JavScript
+JavaScript
 
 ## Usage:
 This program would generate the QR code for any website provided to the prompt. It would help users to just scan the QR code and jump to the desired website.
