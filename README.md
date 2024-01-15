@@ -1,9 +1,9 @@
 # QR-CODE-GENERATOR
 
 ## Technologies Used:
-HTML:is used to structure the web page and its content.
-CSS:is used to style and layout the webpage.
-JavScript:is used to make webpages interactive.
+HTML
+CSS
+JavScript
 
 ## Usage:
 This program would generate the QR code for any website provided to the prompt. It would help users to just scan the QR code and jump to the desired website.
